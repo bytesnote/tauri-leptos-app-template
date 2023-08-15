@@ -1,0 +1,1 @@
+# tauri-leptos-app-template
